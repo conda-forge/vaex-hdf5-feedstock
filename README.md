@@ -14,12 +14,15 @@ Summary: hdf5 file support for vaex
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/vaex-hdf5-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/vaex-hdf5-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/vaex-hdf5-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/vaex-hdf5-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vaex-hdf5/badges/version.svg)](https://anaconda.org/conda-forge/vaex-hdf5)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vaex-hdf5/badges/downloads.svg)](https://anaconda.org/conda-forge/vaex-hdf5)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-vaex--hdf5-green.svg)](https://anaconda.org/conda-forge/vaex-hdf5) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/vaex-hdf5.svg)](https://anaconda.org/conda-forge/vaex-hdf5) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/vaex-hdf5.svg)](https://anaconda.org/conda-forge/vaex-hdf5) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/vaex-hdf5.svg)](https://anaconda.org/conda-forge/vaex-hdf5) |
 
 Installing vaex-hdf5
 ====================
