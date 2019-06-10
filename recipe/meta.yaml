@@ -24,7 +24,8 @@ requirements:
   run:
     - python
     - vaex-core >=0.1
-    - h5py
+    - h5py >=2.9
+    - s3fs
 
 test:
   imports:
