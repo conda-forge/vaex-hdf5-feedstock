@@ -1,6 +1,6 @@
 {% set name = "vaex-hdf5" %}
-{% set version = "0.5.2" %}
-{% set sha256 = "b47ce4f0a214a29e71fc1229285fbb4c4c8685ca970fccc39e0abff933405f61" %}
+{% set version = "0.5.3" %}
+{% set sha256 = "b1759f906bb1af10153ad3eed2edc1ff0542e19d9713b590f42f5b732adfd7ec" %}
 
 package:
   name: {{ name|lower }}
@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 1
+  number: 0
   noarch: python
   script: python -m pip install --no-deps --ignore-installed .
 
