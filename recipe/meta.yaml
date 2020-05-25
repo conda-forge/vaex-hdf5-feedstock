@@ -23,7 +23,7 @@ requirements:
     - pip
   run:
     - python
-    - vaex-core >=2.0.0,<2
+    - vaex-core >=2.0.0,<3
     - h5py >=2.9
     - s3fs <0.3
 
