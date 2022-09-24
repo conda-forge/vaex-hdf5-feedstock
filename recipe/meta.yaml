@@ -23,7 +23,7 @@ requirements:
     - pip
   run:
     - python >=3.6
-    - vaex-core >=4.6.0,<5
+    - vaex-core >=4.13.0,<5
     - h5py >=2.9
 
 test:
