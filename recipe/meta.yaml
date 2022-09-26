@@ -1,6 +1,6 @@
 {% set name = "vaex-hdf5" %}
-{% set version = "0.12.3" %}
-{% set sha256 = "e04b5f6890a7b8cf3ba5753e64c5bf52d46d378524aabd7da49290ea7774c088" %}
+{% set version = "0.13.0" %}
+{% set sha256 = "35d3dc2dcc77bb4c81ca9907d0edcbf214c0b7570264eac1ac23464436d87570" %}
 
 package:
   name: {{ name|lower }}
@@ -23,7 +23,7 @@ requirements:
     - pip
   run:
     - python >=3.6
-    - vaex-core >=4.6.0,<5
+    - vaex-core >=4.13.0,<5
     - h5py >=2.9
 
 test:
