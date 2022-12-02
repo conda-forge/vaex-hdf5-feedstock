@@ -1,6 +1,6 @@
 {% set name = "vaex-hdf5" %}
-{% set version = "0.14.0" %}
-{% set sha256 = "159574873a448a30b352fd24cc8ea6ff0fc13639a25e94b45c3a8a04c76544c7" %}
+{% set version = "0.14.1" %}
+{% set sha256 = "ac6ab69b2d6a1a3b0aec14a6314b743dcda0247cffa1fb9266b1b1839319ec81" %}
 
 package:
   name: {{ name|lower }}
